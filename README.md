@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/florentmagnoac" target="blank"><img src="https://img.shields.io/twitter/follow/florentmagnoac?logo=twitter&style=for-the-badge" alt="florentmagnoac" /></a> </p>
 
-- 🔭 I’m currently working on **Uber Eats clone**
+- 🔭 I’m currently working on **JUNE - Doctor's appointment booking [BACK-END]**
 
-- 🌱 I’m currently learning **Vue.js, React Native, Go...**
+- 🌱 I’m currently learning **Vue.js, Typescript, React...**
 
-- 💬 Ask me about **NodeJs, MongoDB, SQL**
+- 💬 Ask me about **NodeJs, MongoDB, SQL, Javascript**
 
 - 📫 How to reach me **flomag5@hotmail.fr**
 
